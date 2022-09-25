@@ -8,4 +8,3 @@ Follow on CodePen : https://codepen.io/ateendra
 
 My Website : http://ateendra.epizy.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${ateendra24})
