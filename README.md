@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on Web Design/Development or Video Editing
 - 📫 Reach me : http://ateendra.epizy.com/#contact
 
-Follow on CodePen : https://codepen.io/ateendra
-
-My Website : http://ateendra.epizy.com
-
+Follow me on CodePen : https://codepen.io/ateendra
+Follow me on Figma : https://www.figma.com/@apsolanki
