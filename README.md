@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ateendra24
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js and Davinci Resolve
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Design/Development
 - 📫 Reach me : https://ateendra24.github.io/me/contact.html
 
