@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ateendra<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Next.js<br>💞️ I’m looking to collaborate on Web Development<br>📫 Reach me : https://ateendra.vercel.app/contact-me
+👋 Hi, I’m Ateendra<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning AI<br>💞️ I’m looking to collaborate on Web Development<br>📫 Reach me : https://ateendra.dev/contact-me
 
 
 ## 🌐 Socials:
